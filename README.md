@@ -7,3 +7,12 @@ The Basic Instant Diary app is a simple yet effective tool for managing appointm
 
 EXISTING SYSTEM:
 In the present system The Instant Diary app is a sophisticated mobile application designed for efficient appointment management. Its real-time synchronization, user-friendly interface, and personalized scheduling suggestions set it apart. With instant updates and secure cloud storage, users can seamlessly organize and stay on top of their commitments, making it a valuable tool for modern lifestyles.
+
+
+Languages used : Java , HTML 
+ 
+Server used : Glass Fish
+
+Database Connection : JDBC
+
+Database used : Derby
